@@ -25,7 +25,7 @@
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/gedp/challege-alura-latam.git
-
+```
 ## 🚀 Cómo usar
 
 - **a)** Abre el archivo `index.html` en tu navegador.
@@ -34,11 +34,11 @@ git clone https://github.com/gedp/challege-alura-latam.git
 - **d)** ¡Revela tu amigo secreto!
 - **e)** Usa el botón "Reiniciar" para una nueva asignación.
 
-## **🔥 Ejecución local**
+## 🔥 Ejecución local
 
 Este proyecto no requiere ninguna instalación adicional. Simplemente abre el archivo `index.html` en tu navegador y empieza a usar la aplicación.
 
 📄 Licencia
 MIT License - Ver LICENSE
 
-👨💻 Autor: Gerlyn Eduardo Duarte
+👨💻 Autor: **Gerlyn Eduardo Duarte**
