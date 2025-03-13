@@ -21,6 +21,24 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## ⚙️ Instalación
+
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/gedp/challege-alura-latam.git
+
+## 🚀 Cómo usar
+
+- **a)** Abre el archivo `index.html` en tu navegador.
+- **b)** Ingresa los nombres de los participantes.
+- **c)** Haz clic en "Generar".
+- **d)** ¡Revela tu amigo secreto!
+- **e)** Usa el botón "Reiniciar" para una nueva asignación.
+
+## **🔥 Ejecución local**
+
+Este proyecto no requiere ninguna instalación adicional. Simplemente abre el archivo `index.html` en tu navegador y empieza a usar la aplicación.
+
+📄 Licencia
+MIT License - Ver LICENSE
+
+👨💻 Autor: Gerlyn Eduardo Duarte
